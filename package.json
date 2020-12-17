@@ -15,15 +15,15 @@
   },
   "configSchema": {
     "useAtomFont": {
-      "title": "Use your atom syntax font in whatsapp",
+      "title": "Use atom font",
       "description": "",
       "type": "boolean",
       "default": true,
       "order": 1
     },
     "useAtomThemes":{
-      "title": "Use your atom theme font in whatsapp",
-      "description": "atom-whatsapp tries to apply your theme and syntax to whatsapp, this might not work with every theme",
+      "title": "Use atom color-scheme",
+      "description": "atom-whatsapp tries to apply your theme and syntax colors to whatsapp, this might not work with every theme",
       "type": "boolean",
       "default": true,
       "order": 2
