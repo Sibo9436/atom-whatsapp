@@ -22,8 +22,8 @@
       "order": 1
     },
     "useAtomThemes":{
-      "title": "Use atom color-scheme",
-      "description": "atom-whatsapp tries to apply your theme and syntax colors to whatsapp, this might not work with every theme",
+      "title": "Enable atom theme settings inside whatsapp",
+      "description": "atom-whatsapp tries to apply atom colorscheme and font to whatsapp webview. This may not work properly with some themes.",
       "type": "boolean",
       "default": true,
       "order": 2
