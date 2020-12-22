@@ -6,7 +6,7 @@ Share code using [gist-it](https://github.com/rhysforyou/gist-it) with you fello
 
 ## Features
 
-This package provides the options (toggled on by default) to use WhatsApp web inside atom editor with the same coloscheme and fonts set in the application. To open WhatsApp just use the keybinding Ctrl+Alt+t.
+This package provides the options (toggled on by default) to use WhatsApp web inside atom editor with the same colorscheme and fonts set in the application. To open WhatsApp just use the keybinding Ctrl+Alt+m.
 
 ## Installation
 
