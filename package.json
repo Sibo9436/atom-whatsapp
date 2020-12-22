@@ -1,7 +1,7 @@
 {
   "name": "atom-whatsapp",
   "main": "./lib/atom-whatsapp",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom integration for whatsapp web",
   "keywords": [
     "whatsapp",
@@ -23,7 +23,7 @@
       "default": true,
       "order": 1
     },
-    "useAtomThemes":{
+    "useAtomThemes": {
       "title": "Enable atom theme settings inside whatsapp",
       "description": "atom-whatsapp tries to apply atom colorscheme and font to whatsapp webview. This may not work properly with some themes.",
       "type": "boolean",
@@ -31,9 +31,8 @@
       "order": 2
     }
   },
-	"deserializers": {
-		"AtomWhatsappView": "deserializeAtomWhatsappView"
-	},
-  "dependencies": {
-  }
+  "deserializers": {
+    "AtomWhatsappView": "deserializeAtomWhatsappView"
+  },
+  "dependencies": {}
 }
