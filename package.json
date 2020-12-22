@@ -4,6 +4,8 @@
   "version": "0.0.0",
   "description": "Atom integration for whatsapp web",
   "keywords": [
+    "whatsapp",
+    "chat"
   ],
   "activationCommands": {
     "atom-workspace": "atom-whatsapp:toggle"
