@@ -2,7 +2,7 @@
 
 Open [WhatsApp web](https://web.whatsapp.com) directly inside your favourite editor [atom](https://github.com/atom/atom).
 
-Share code using [gist-it](https://github.com/rhysforyou/gist-it) with you fellow coders.
+Share code using [gist-it](https://github.com/rhysforyou/gist-it) with your fellow coders.
 
 ## Features
 
