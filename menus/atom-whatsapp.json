@@ -1,12 +1,4 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle atom-whatsapp",
-        "command": "atom-whatsapp:toggle"
-      }
-    ]
-  },
   "menu": [
     {
       "label": "Packages",
