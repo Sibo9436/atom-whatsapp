@@ -2,7 +2,7 @@
 
 Open [WhatsApp web](https://web.whatsapp.com) directly inside your favorite editor [atom](https://github.com/atom/atom).
 
-![Theme used: accent-ui](./screenshots/whatscreen.png)
+![Theme used: accent-ui](https://www.github.com/Sibo9436/atom-whatsapp/master/blob/screenshots/whatscreen.png)
 
 Share code using [gist-it](https://github.com/rhysforyou/gist-it) with your fellow coders.
 
@@ -31,5 +31,5 @@ apm install atom-whatsapp
 
 ## Screenshots
 
-![Theme used: one-light-ui + solarized-light-syntax](./screenshots/whatscreen_light.png)
-![Theme used: atom-material-ui + eighty-shades-syntax](./screenshots/whatscreen_cyberpunk.png)
+![Theme used: one-light-ui + solarized-light-syntax](https://www.github.com/Sibo9436/atom-whatsapp/master/blob/screenshots/whatscreen_light.png)
+![Theme used: atom-material-ui + eighty-shades-syntax](https://www.github.com/Sibo9436/atom-whatsapp/master/blob/screenshots/whatscreen_cyberpunk.png)
