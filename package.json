@@ -35,8 +35,8 @@
       "description": "",
       "type": "boolean",
       "default": false,
-      "order":3,
-      },
+      "order":3
+    },
     "notificationBehaviour":{
       "title": "Notification behaviour",
       "description": "atom-whatsapp tries to apply atom colorscheme and font to whatsapp webview. This may not work properly with some themes.",
