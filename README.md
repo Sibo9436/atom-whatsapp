@@ -1,6 +1,8 @@
 # WhatsApp web for Atom
 
-Open [WhatsApp web](https://web.whatsapp.com) directly inside your favourite editor [atom](https://github.com/atom/atom).
+Open [WhatsApp web](https://web.whatsapp.com) directly inside your favorite editor [atom](https://github.com/atom/atom).
+
+![Theme used: accent-ui](./screenshots/whatscreen.png)
 
 Share code using [gist-it](https://github.com/rhysforyou/gist-it) with your fellow coders.
 
@@ -12,7 +14,7 @@ This package provides the options (toggled on by default) to use WhatsApp web in
 
 ### Command Line
 
-1. Intall [Atom 1.40](https://atom.io/)
+1. Install [Atom 1.40](https://atom.io/)
 2. In the terminal run command:
 ```
 apm install atom-whatsapp
@@ -26,3 +28,8 @@ apm install atom-whatsapp
 4. Click the Install tab on the left side
 5. Enter atom-whatsapp in the search box and press Enter
 6. Click the "Install" button that appears
+
+## Screenshots
+
+![Theme used: one-light-ui + solarized-light-syntax](./screenshots/whatscreen_light.png)
+![Theme used: atom-material-ui + eighty-shades-syntax](./screenshots/whatscreen_cyberpunk.png)
