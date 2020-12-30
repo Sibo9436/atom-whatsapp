@@ -1,7 +1,7 @@
 {
   "name": "atom-whatsapp",
   "main": "./lib/atom-whatsapp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Atom integration for whatsapp web",
   "keywords": [
     "whatsapp",
@@ -35,13 +35,13 @@
       "description": "",
       "type": "boolean",
       "default": false,
-      "order":3
+      "order": 3
     },
-    "notificationBehaviour":{
+    "notificationBehaviour": {
       "title": "Notification behaviour",
       "description": "",
       "type": "string",
-      "radio":"true",
+      "radio": "true",
       "default": "show",
       "enum": [
         {
@@ -50,7 +50,7 @@
         },
         {
           "value": "reply",
-          "description":"(Beta)Notifications have an input box for quick replies"
+          "description": "(Beta)Notifications have an input box for quick replies"
         }
       ],
       "order": 4
