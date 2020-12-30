@@ -17,19 +17,26 @@
   },
   "configSchema": {
     "useAtomFont": {
-      "title": "Use atom font",
+      "title": "Use same font as atom editor",
       "description": "",
       "type": "boolean",
       "default": true,
       "order": 1
     },
     "useAtomThemes": {
-      "title": "Enable atom theme settings inside whatsapp",
-      "description": "atom-whatsapp tries to apply atom colorscheme and font to whatsapp webview. This may not work properly with some themes.",
+      "title": "Use same colorscheme as atom",
+      "description": "atom-whatsapp tries to apply the theme set in atom. Keep in mind that in some cases this may make text unreadable because of color matchings.",
       "type": "boolean",
       "default": true,
       "order": 2
     },
+    "devToolsOnStart": {
+      "title": "Open webview devtools when starting atom-whatsapp",
+      "description": "",
+      "type": "boolean",
+      "default": false,
+      "order":3,
+      },
     "notificationBehaviour":{
       "title": "Notification behaviour",
       "description": "atom-whatsapp tries to apply atom colorscheme and font to whatsapp webview. This may not work properly with some themes.",
@@ -46,7 +53,7 @@
           "description":"(Beta)Notifications have an input box for quick replies"
         }
       ],
-      "order": 3
+      "order": 4
     }
   },
   "deserializers": {
