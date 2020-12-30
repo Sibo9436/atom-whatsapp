@@ -35,7 +35,25 @@
       "description": "",
       "type": "boolean",
       "default": false,
-      "order": 3
+      "order":3,
+      },
+    "notificationBehaviour":{
+      "title": "Notification behaviour",
+      "description": "atom-whatsapp tries to apply atom colorscheme and font to whatsapp webview. This may not work properly with some themes.",
+      "type": "string",
+      "radio":"true",
+      "default": "show",
+      "enum": [
+        {
+          "value": "show",
+          "description": "Clicking on a notification focuses the chat"
+        },
+        {
+          "value": "reply",
+          "description":"(Beta)Notifications have an input box for quick replies"
+        }
+      ],
+      "order": 4
     }
   },
   "deserializers": {
