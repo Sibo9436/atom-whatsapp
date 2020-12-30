@@ -3,6 +3,7 @@
 Open [WhatsApp web](https://web.whatsapp.com) directly inside your favorite editor [atom](https://github.com/atom/atom).
 
 ![Theme used: accent-ui](https://github.com/Sibo9436/atom-whatsapp/blob/master/screenshots/whatscreen.png)
+** Theme used: accent-ui **
 
 Share code using [gist-it](https://github.com/rhysforyou/gist-it) with your fellow coders.
 
