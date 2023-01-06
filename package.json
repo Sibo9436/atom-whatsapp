@@ -20,7 +20,7 @@
       "title": "Use same font as atom editor",
       "description": "",
       "type": "boolean",
-      "default": true,
+      "default": false,
       "order": 1
     },
     "useAtomThemes": {
