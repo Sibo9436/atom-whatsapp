@@ -25,7 +25,7 @@ To open WhatsApp just use the keybinding `Ctrl+Alt+m`.
 
 1. Install pulsar or newer
 2. Launch pulsar
-3. Open Settings View using Cmd+, on macOS or Ctrl+, on other platforms
+3. Open Settings View using `Cmd+,` on macOS or `Ctrl+,` on other platforms
 4. Click the "Install" tab on the left side
 5. Enter "atom-whatsapp" in the search box and press Enter
 6. Click the "Install" button that appears
