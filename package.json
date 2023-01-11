@@ -1,7 +1,7 @@
 {
   "name": "atom-whatsapp",
   "main": "./lib/atom-whatsapp",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Atom integration for whatsapp web",
   "keywords": [
     "whatsapp",
